@@ -10,3 +10,4 @@ vmware.com##vmware-virtualassistant
 altaro.com###cp_popup_id_24565 > div.cp-popup-wrapper.cp-auto > div.cp-popup.cpro-animate-container.cp-animated.cp-fadeIn > div.cp-popup-content.cpro-active-step.cp-slide_in.bottom-right.cp-panel-1:nth-child(4) > div.cpro-form-container
 jianshu.com###__next > div._27yofX:nth-child(4) > div._1bKQQB:first-child
 jianshu.com###__next > div._27yofX:nth-child(4) > div.TlIPNx:last-child
+juejin.cn###juejin > div.view-container.container:first-child > main.container.main-container.with-view-nav:last-child > div.view.timeline-index-view > div.timeline-container:last-child > div.timeline-content > aside.index-aside.aside:last-child > div.sidebar-block.banner-block:nth-child(2) > div.banner
