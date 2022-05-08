@@ -4,6 +4,8 @@
 ! Expires: 1 hour
 ! Homepage: https://yc.wu
 ! ----------------------------------------------------------------------
+google.com#?#div[data-hveid]:has(> div > div > a[href*="softwarebrother.com"])
+google.com#?#div[jscontroller]:has(> a[href*="softwarebrother.com"])
 google.*##div.g:has(div[data-hveid] a[href*="pharmacistplus.com"])
 google.*##div.g:has(div[data-hveid] a[href*="easylife.tw"])
 google.*##div.g:has(div[data-hveid] a[href*="softwarebrother.com"])
