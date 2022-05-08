@@ -7,3 +7,6 @@
 ! VMware
 vmware.com##vmware-virtualassistant
 ||vmware.com/lcms/publish/va-ava-chatbot/virtual-assistant-ui.js^
+altaro.com###cp_popup_id_24565 > div.cp-popup-wrapper.cp-auto > div.cp-popup.cpro-animate-container.cp-animated.cp-fadeIn > div.cp-popup-content.cpro-active-step.cp-slide_in.bottom-right.cp-panel-1:nth-child(4) > div.cpro-form-container
+jianshu.com###__next > div._27yofX:nth-child(4) > div._1bKQQB:first-child
+jianshu.com###__next > div._27yofX:nth-child(4) > div.TlIPNx:last-child
