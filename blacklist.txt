@@ -40,6 +40,8 @@
 ||garena.com^$empty
 ||garena.tw^$empty
 ||gamer.com.tw^$empty
+||twimg.com^$empty
+
 
 
 
