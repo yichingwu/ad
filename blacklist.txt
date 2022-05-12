@@ -67,3 +67,5 @@
 ||upliveapp.com^$empty
 ||wave.com.tw^$empty
 ||17.live^$empty
+||pongpongchat.com^$empty
+||appsme.tv^$empty
