@@ -48,6 +48,8 @@
 ||aliyun.com^$empty
 ||tianyancha.com^$empty
 ||baidu.com^$empty
+||sina.com.cn^$empty
+
 
 
 
