@@ -56,8 +56,7 @@
 ||twgreatdaily.com^$empty
 ||angiestyle.cc^$empty
 ||facebook.com/angiemovue^$empty
-||www.youtube.com/c/安姬魔芙AngieMovue^$empty
 ||niusnews.com^$empty
-
+||piko.live^$empty
 
 
