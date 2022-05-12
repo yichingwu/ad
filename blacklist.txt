@@ -22,6 +22,7 @@
 ||pinqueue.com^$empty
 ||tiktok.com^$empty
 ||twitch.com^$empty
+||twitch.tv^$empty
 ||instagram.com^$empty
 ||walkme.com^$empty
 ||pcucgame.com^$empty
