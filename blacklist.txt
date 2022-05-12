@@ -41,7 +41,13 @@
 ||gamer.com.tw^$empty
 ||twimg.com^$empty
 ||gamme.com.tw^$empty
-
+||www.cup.com.hk^$empty
+||sinaimg.cn^$empty
+||weibo.cn^$empty
+||byteimg.com^$empty
+||aliyun.com^$empty
+||tianyancha.com^$empty
+||baidu.com^$empty
 
 
 
