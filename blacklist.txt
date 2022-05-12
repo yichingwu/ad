@@ -75,3 +75,8 @@
 ||nonolive.com^$empty
 ||huya.com^$empty
 ||douyu.com^$empty
+||cc.163.com^$empty
+||inke.cn^$empty
+||douyin.com^$empty
+||egame.qq.com^$empty
+||huajiao.com^$empty
