@@ -19,7 +19,5 @@ google.*#?#div[jscontroller]:has(> a[href*="twblogs.net"])
 google.*#?#div[data-hveid]:has(> div > div > a[href*="twblogs.net"])
 google.*#?#div[jscontroller]:has(> a[href*="moptt.tw"])
 google.*#?#div[data-hveid]:has(> div > div > a[href*="moptt.tw"])
-© 2022 GitHub, Inc.
-Terms
-Privacy
+
 
