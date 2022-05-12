@@ -49,7 +49,7 @@
 ||tianyancha.com^$empty
 ||baidu.com^$empty
 ||sina.com.cn^$empty
-
+||softwarebrother.com^$empty
 
 
 
