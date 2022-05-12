@@ -34,7 +34,6 @@
 ||nicegame.com.tw^$empty
 ||gamebase.com.tw^$empty
 ||cocoachina.com^$empty
-
 ||8591.com.tw^$empty
 ||boardgamearena.com^$empty
 ||dcard.tw^$empty
