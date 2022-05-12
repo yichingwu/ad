@@ -1,4 +1,3 @@
-[Adblock Plus]
 ! Title: YC's Blacklist
 ! Version: 2022.05.08
 ! Expires: 1 hour
@@ -41,7 +40,7 @@
 ||garena.tw^$empty
 ||gamer.com.tw^$empty
 ||twimg.com^$empty
-
+||gamme.com.tw^$empty
 
 
 
