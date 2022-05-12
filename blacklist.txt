@@ -5,5 +5,36 @@
 ! Homepage: https://yc.wu
 ! ----------------------------------------------------------------------
 ||sogou.com^$empty
+||ppfocus.com^$empty
+||wargaming.net^$empty
+||flashtalking.com^$empty
+||aralego.com^$empty
+||litv.tv^$empty
+||ixigua.com^$empty
+||beanfun.com^$empty
+||bdxiguaimg.com^$empty
+||ulikecam.com^$empty
+||sohu.com^$empty
+||Youku.com^$empty
+||kuaishou.com^$empty
+||Bilibili.com^$empty
+||hotmessage.co^$empty
+||kknews.cc^$empty
+||pinqueue.com^$empty
+||tiktok.com^$empty
+||twitch.com^$empty
+||instagram.com^$empty
+||walkme.com^$empty
+||pcucgame.com^$empty
+||entertainment14.com^$empty
+||gameflier.com^$empty
+||efunfun.com^$empty
+||tgbus.com^$empty
+||mycard520.com.tw^$empty
+||sogou.com^$empty
+||sogou.com^$empty
+
+
+
 
 
