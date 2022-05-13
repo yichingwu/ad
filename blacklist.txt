@@ -88,3 +88,4 @@
 ||hotporn.today^$empty
 ||cosxplay.com^$empty
 ||ctwant.com^$empty
+||picuki.com^$empty
