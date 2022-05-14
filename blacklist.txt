@@ -1,5 +1,5 @@
 ! Title: YC's Blacklist
-! Version: 2022.05.13.1
+! Version: 2022.05.14.1
 ! Expires: 1 hour
 ! Homepage: https://raw.githubusercontent.com/yichingwu/ad/main/blacklist.txt
 ! ----------------------------------------------------------------------
@@ -89,3 +89,7 @@
 ||cosxplay.com^$empty
 ||ctwant.com^$empty
 ||picuki.com^$empty
+||akinator.com^$empty
+||qzxiu.net^$empty
+||yifanhunaa.com^$empty
+||moegirl.org.cn^$empty
