@@ -103,3 +103,6 @@
 ||line.me^$empty
 ||line-apps.com^$empty
 ||ettoday.net^$empty
+||facebook.net^$empty
+||playnowhk.blogspot.com^$empty
+||tvbs.com.tw^$empty
