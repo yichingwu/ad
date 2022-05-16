@@ -1,5 +1,5 @@
 ! Title: YC's Blacklist
-! Version: 2022.05.16.3
+! Version: 2022.05.16.5
 ! Expires: 1 hour
 ! Homepage: https://raw.githubusercontent.com/yichingwu/ad/main/blacklist.txt
 ! ----------------------------------------------------------------------
@@ -106,3 +106,9 @@
 ||facebook.net^$empty
 ||playnowhk.blogspot.com^$empty
 ||tvbs.com.tw^$empty
+||eyny.com^$empty
+||38dmitaotun.com^$empty
+||asianssex.com^$empty
+||porn2012.com^$empty
+||av6k.com^$empty
+||t05.hdsex.org^$empty
