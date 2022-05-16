@@ -102,3 +102,4 @@
 ||instantonline.io^$empty
 ||line.me^$empty
 ||line-apps.com^$empty
+||ettoday.net^$empty
