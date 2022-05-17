@@ -1,5 +1,5 @@
 ! Title: YC's Blacklist
-! Version: 2022.05.16.6
+! Version: 2022.05.17.1
 ! Expires: 1 hour
 ! Homepage: https://raw.githubusercontent.com/yichingwu/ad/main/blacklist.txt
 ! ----------------------------------------------------------------------
@@ -124,4 +124,19 @@
 ||360.cn^$empty
 ||aotter.net^$empty
 ||yahoo.com^$empty
+||fun8.us^$empty
+||funs.me^$empty
+||gamedistribution.com^$empty
+||memes.tw^$empty
+||setn.com^$empty
+||mirrormedia.mg^$empty
+||naver.jp^$empty
+||driftvpn.com^$empty
+||seriousvpn.net^$empty
+||oasisvpn.com^$empty
+||upmedia.mg^$empty
+||xingye.me^$empty
+||bemuse.ninja^$empty
+||wesane.com^$empty
+||flash.zczc.cz^$empty
 
