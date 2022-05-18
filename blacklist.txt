@@ -1,5 +1,5 @@
 ! Title: YC's Blacklist
-! Version: 2022.05.18.1
+! Version: 2022.05.18.3
 ! Expires: 1 hour
 ! Homepage: https://raw.githubusercontent.com/yichingwu/ad/main/blacklist.txt
 ! ----------------------------------------------------------------------
@@ -116,7 +116,7 @@
 ||appledaily.com.tw^$empty
 ||360.cn^$empty
 ||aotter.net^$empty
-||yahoo.com^$empty
+||*yahoo.*^$empty
 ||fun8.us^$empty
 ||funs.me^$empty
 ||memes.tw^$empty
@@ -154,3 +154,4 @@
 ||baozimh.com^$empty
 ||findsav.com^$empty
 ||uuks.org^$empty
+||bing.com
