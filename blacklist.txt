@@ -1,5 +1,5 @@
 ! Title: YC's Blacklist
-! Version: 2022.10.16.1
+! Version: 2022.10.16.2
 ! Expires: 1 hour
 ! Homepage: https://raw.githubusercontent.com/yichingwu/ad/main/blacklist.txt
 ! ----------------------------------------------------------------------
@@ -159,4 +159,5 @@
 ||popdaily.com.tw^$empty
 ||*.bignox.com^$empty
 ||*.xvideos.com^$empty
+||*.yy.com^$empty
 
