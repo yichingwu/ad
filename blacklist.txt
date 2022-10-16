@@ -158,3 +158,5 @@
 ||kknews.cc^$empty
 ||popdaily.com.tw^$empty
 ||*.bignox.com^$empty
+||*.xvideos.com^$empty
+
