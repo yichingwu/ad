@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: YC's HTML Content Filter
-! Version: 2022.05.08
+! Version: 2023.04.07
 ! Expires: 1 hour
 ! Homepage: https://yc.wu
 ! ----------------------------------------------------------------------
@@ -11,3 +11,35 @@ altaro.com###cp_popup_id_24565 > div.cp-popup-wrapper.cp-auto > div.cp-popup.cpr
 jianshu.com###__next > div._27yofX:nth-child(4) > div._1bKQQB:first-child
 jianshu.com###__next > div._27yofX:nth-child(4) > div.TlIPNx:last-child
 juejin.cn###juejin > div.view-container.container:first-child > main.container.main-container.with-view-nav:last-child > div.view.timeline-index-view > div.timeline-container:last-child > div.timeline-content > aside.index-aside.aside:last-child > div.sidebar-block.banner-block:nth-child(2) > div.banner
+chinatimes.com###page-top > div.container:first-child > div.row.d-block:first-child > div.ad.d-none.d-lg-block.with-placeholder:nth-child(7) > div.banner-auto-scale.mb-0 > div.banner-expandable.placeholder
+chinatimes.com###page-top > div.container:first-child > div.row:last-child > div.col > div.article-wrapper > article.article-box > div.column-wrapper.clear-fix > aside.column-right:nth-child(3) > div.d-none.d-lg-block:first-child > div.ad.with-placeholder:last-child > div.banner-multi-size.placeholder
+chinatimes.com###page-top > div.container:first-child > div.row:last-child > div.col > div.article-wrapper > article.article-box > div.column-wrapper.clear-fix > div.column-left:nth-child(2) > div.row:last-child > div.col-xl-11:last-child > div.article-body:last-child > div.ad.text-wrap-around.with-placeholder:nth-child(3) > div.banner-336x280.placeholder
+chinatimes.com###page-top > div.container:first-child > div.row:last-child > div.col > div.article-wrapper > article.article-box > div.column-wrapper.clear-fix > div.column-left:last-child > div.d-none.d-lg-block:nth-child(2) > div.row.justify-content-center > div.col-auto:first-child > div.ad.with-placeholder > div.banner-multi-size.placeholder
+chinatimes.com###page-top > div.container:first-child > div.row:last-child > div.col > div.article-wrapper > article.article-box > div.column-wrapper.clear-fix > div.column-left:last-child > div.d-none.d-lg-block:nth-child(2) > div.row.justify-content-center > div.col-auto:last-child > div.ad.with-placeholder > div.banner-multi-size.placeholder
+##div.wrapper:nth-child(7) > div.container:first-child > div.row.d-block:first-child > div.ad.d-none.d-lg-block.with-placeholder:nth-child(7) > div.banner-auto-scale.mb-0 > div.banner-expandable.placeholder
+##div.wrapper:nth-child(7) > div.container:first-child > div.column-wrapper.clear-fix:last-child > aside.column-right:nth-child(2) > div.d-none.d-lg-block:first-child > div.ad.with-placeholder:last-child > div.banner-multi-size.placeholder
+##div.wrapper:nth-child(7) > div.container:first-child > div.column-wrapper.clear-fix:last-child > aside.column-right:nth-child(2) > div.d-none.d-lg-block:last-child > div.ad.with-placeholder:first-child > div.banner-multi-size.placeholder
+###page-top > div.container:first-child > div.row:last-child > div.col > div.article-wrapper > article.article-box > div.column-wrapper.clear-fix > aside.column-right:nth-child(3) > div.d-none.d-lg-block:nth-child(3) > div.ad.with-placeholder:last-child > div.banner-multi-size.placeholder
+chinatimes.com###page-top > div.container:first-child > div.row:last-child > div.col > div.article-wrapper > article.article-box > div.column-wrapper.clear-fix > div.column-left:nth-child(2) > div.row:last-child > div.col-xl-11:last-child > div.article-body:last-child > div.ad.text-wrap-around.with-placeholder:nth-child(2) > div.banner-336x280.placeholder
+###idle_content
+###form_popUp > div.c-popUp__content:first-child
+###story_anchor > div.container > div.article-main-aside-wrapper > aside.article-aside:last-child > ul.article-aside__ad-list:first-child > li.edn-ads--300x250.ads--exist:nth-child(2)
+###comments_head
+###comments_body > form:first-child
+###comments_body
+##div.wrapper:nth-child(7) > div.container:first-child > div.column-wrapper.clear-fix:last-child > div.column-right:last-child > div.d-none.d-lg-block:nth-child(4) > div.ad.with-placeholder:nth-child(2) > div.banner-multi-size.placeholder
+##div.wrapper:nth-child(7) > div.container:first-child > div.column-wrapper.clear-fix:last-child > div.column-right:last-child > div.d-none.d-lg-block:nth-child(4) > div.ad.with-placeholder:last-child > div.banner-multi-size.placeholder
+###dfp-sidebar_techbang_desktop_4
+###dfp-sidebar_techbang_desktop_5
+###dfp-sidebar_techbang_desktop_6
+###dfp-sidebar_techbang_desktop_8
+###dfp-sidebar_techbang_desktop_7
+###article-content > div.techbang_i_m_970x250_1:nth-child(15)
+###dfp-middle_techbang_desktop_2
+###main > article.article > div.content-top:nth-child(2)
+###article-content > div.techbang_i_m_970x250_1:nth-child(12)
+techbang.com##.techbang_inline_640x360
+###crazy_ad_small
+###line_link > span.fb_bg.default
+##.fb_btn
+###one
