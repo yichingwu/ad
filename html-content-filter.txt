@@ -43,3 +43,15 @@ techbang.com##.techbang_inline_640x360
 ###line_link > span.fb_bg.default
 ##.fb_btn
 ###one
+news.cnyes.com##._1ePH
+cnyes.com##.jsx-3810346821, .loading-skelton
+cnyes.com##.jsx-2137435662, .anue-fund
+newtalk.tw##.alertbox-content
+newtalk.tw##.hot-comment
+newtalk.tw##.lazyload
+setn.com##.right-banner, .ad-300x250
+setn.com##.fbFancyGroup
+##div.container:first-child > div.idle_lightbox2:nth-child(11) > div.box
+##div.container:first-child > main:nth-child(32) > div.frame_box > aside:last-child > div.r_box:first-child > div.sidebar_div:first-child
+news.tvbs.com.tw##.nolazydiv
+###et_comments
